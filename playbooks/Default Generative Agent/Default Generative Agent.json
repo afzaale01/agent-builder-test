@@ -1,5 +1,16 @@
 {
   "name": "00000000-0000-0000-0000-000000000000",
   "displayName": "Default Generative Agent",
-  "goal": "Default goal"
+  "goal": "Help developers to create react applications.",
+  "steps": [ {
+    "text": "Greet the users, then ask how you can help them today."
+  }, {
+    "text": "Summarize the user's request and ask them to confirm that you understood correctly.",
+    "steps": [ {
+      "text": "If necessary, seek clarifying details."
+    } ]
+  }, {
+    "text": "Thank the user for their business and say goodbye."
+  } ],
+  "referencedTools": [ "projects/prj-sandbox-402811/locations/us-central1/agents/76223bf4-f64c-435f-abc6-bc9e5760ddd0/tools/df-code-interpreter-tool" ]
 }

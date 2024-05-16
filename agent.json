@@ -1,0 +1,14 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 1017056692301,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/1017056692301/locations/us/collections/default_collection/engines/76223bf4-f64c-435f-abc6-bc9e5760ddd0"
+  },
+  "startPlaybook": "Default Generative Agent"
+}
